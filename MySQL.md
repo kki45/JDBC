@@ -144,13 +144,3 @@ order by sal * 12 + comm DESC;
 
 
 
-
-
-
-
-
-
-
-
-
-
